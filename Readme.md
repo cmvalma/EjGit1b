@@ -1,6 +1,6 @@
 # CONFLICT IN GIT
 
-*Read part 1 for previous iteration of the process in Windows; is is much more detailed and provides context for this one...
+* Read part 1 for previous iteration of the process in Windows; is is much more detailed and provides context for this one...
 
 Now in Ubuntu, deleting .git folders work as expected. 
 
