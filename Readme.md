@@ -24,7 +24,7 @@ IMG2
 ### Set defatult identity:
 `git config -- global user.email "cmvalma.rg@gmail.com"`
 `git config --global user.name "cmvalma"`
-### commit:
+### Commit:
 `git commit -m "primera version`
 IMG3
 
