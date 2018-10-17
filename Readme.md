@@ -2,7 +2,7 @@
 
 *Note: Read part 1 (Pre-Readme) for previous iteration of the process in Windows; is is much more detailed and provides context for this one...part 1
 
-Contrary to previous iterations of the process in Windows, in Ubuntu, deleting .git folders work as expected.
+Contrary to previous iterations of the process in Windows, in Ubuntu, deleting .git folders works as expected.
 
 ## PREPARAR ARCHIVOS
 Crear folder específico con `mkdir`
