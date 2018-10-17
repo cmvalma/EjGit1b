@@ -14,7 +14,8 @@ Crear folder específico con `mkdir`
 touch 2_Readme.md`
 
 IMG1
-![alt text](https://raw.githubusercontent.com/cmvalma/EjGit1b/Pictures/IMG1.png
+![alt text](EjGit1b/Pictures/IMG1.png)
+      
 
 El archivo conflictivo de Python se puede crear igual, pero lo creamos abriendo la carpeta ExGit1 y creando ahí el archivo "ConflictingFile.py"
 
