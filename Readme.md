@@ -13,7 +13,6 @@ Crear folder específico con `mkdir`
 ### Crear archivos
 touch 2_Readme.md`
 
-IMG1
 <img src="/Pictures/IMG1.png"/> 
       
 
@@ -22,13 +21,13 @@ El archivo conflictivo de Python se puede crear igual, pero lo creamos abriendo 
 ## GESTIONAR GIT CONTROL
 ### Traer a escena todos los archivos:
 `git add .`
-IMG2
+<img src="/Pictures/IMG2.png"/> 
 ### Set defatult identity:
 `git config -- global user.email "cmvalma.rg@gmail.com"`
 `git config --global user.name "cmvalma"`
 ### Commit:
 `git commit -m "primera version`
-IMG3
+<img src="/Pictures/IMG3.png"/> 
 
 ## GITHUB 
 Primero crear repositorio en Github 
@@ -39,13 +38,13 @@ Ne confundí, esta era la anterior. Para cambiar de dirección:
 `https://github.com/cmvalma/ExGit1.gitgit remote set-url origin  https://github.com/cmvalma/EjGit1b.git`
 **Push:**
 `git push -u origin master`
-IMG4
+<img src="/Pictures/IMG4.png"/> 
 
 ## BRANCH CON ARCHIVO MODIFICADO
 
-IMG5
+<img src="/Pictures/IMG5.png"/> 
 `git push --set-upstream origin Branch1`:
-IMG6
+<img src="/Pictures/IMG6.png"/> 
 
 ## MERGE 
 ### Volvemos al Master
@@ -53,4 +52,4 @@ IMG6
 ### y fusionamos la rama en él
 `git merge Branch1`
 Tampoco aparece el conflicto!! 
-IMG7
+<img src="/Pictures/IMG7.png"/> 
