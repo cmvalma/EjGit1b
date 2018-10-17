@@ -21,6 +21,7 @@ El archivo conflictivo de Python se puede crear igual, pero lo creamos abriendo 
 ## GESTIONAR GIT CONTROL
 ### Traer a escena todos los archivos:
 `git add .`
+
 <img src="/Pictures/IMG2.png"/> 
 ### Set defatult identity:
 `git config -- global user.email "cmvalma.rg@gmail.com"`
@@ -53,3 +54,8 @@ Ne confundí, esta era la anterior. Para cambiar de dirección:
 `git merge Branch1`
 Tampoco aparece el conflicto!! 
 <img src="/Pictures/IMG7.png"/> 
+
+## INSIGHT SCREENSHOTS
+
+<img src="/Pictures/Insight1.png"/>
+      
