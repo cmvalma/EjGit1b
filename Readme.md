@@ -10,7 +10,7 @@ Crear folder específico con `mkdir`
 `cd ExGit1`
 `git init` 
 
-## Crear archivos
+### Crear archivos
 touch 2_Readme.md`
 
 IMG1
