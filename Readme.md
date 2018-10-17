@@ -1,4 +1,4 @@
-# CONFLICT INGIT
+# CONFLICT IN GIT
 
 * Read part 1 for previous iteration of the process in Windows; is is much more detailed and provides context for this one...
 
