@@ -41,7 +41,7 @@ Ne confundí, esta era la anterior. Para cambiar de dirección:
 `git push -u origin master`
 <img src="/Pictures/IMG4.png"/> 
 
-## BRANCH CON ARCHIVO MODIFICADO
+## BRANCH CON ARCHIVO MODIFICADOInsightAfterAddingPicsinGitHub.png
 
 <img src="/Pictures/IMG5.png"/> 
 `git push --set-upstream origin Branch1`:
@@ -59,3 +59,5 @@ Tampoco aparece el conflicto!!
 
 <img src="/Pictures/Insight1.png"/>
       
+Despues de añadir las fotos via GitHub directa: 
+<img src="/Pictures/InsightAfterAddingPicsinGitHub.png"/>
