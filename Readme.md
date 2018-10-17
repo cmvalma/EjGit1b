@@ -60,4 +60,5 @@ Tampoco aparece el conflicto!!
 <img src="/Pictures/Insight1.png"/>
       
 Despues de añadir las fotos via GitHub directa: 
+
 <img src="/Pictures/InsightAfterAddingPicsinGitHub.png"/>
