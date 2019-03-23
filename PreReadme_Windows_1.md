@@ -4,9 +4,9 @@ Creamos también los archivos y el repositorio con los que generar el conflicto.
 
 ### Crear directorio e inicializar Git. 
 
-![i1](Pictures\i1.png)
+![i1](<img src="/Pictures/IMG1.png"/>)
 
-![i2](.\Pictures\i2.png)
+![i2](Pictures/i2.png)
 
 ### Crear archivo .py "original" en el directorio. 
 
