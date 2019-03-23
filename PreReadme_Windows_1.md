@@ -4,9 +4,9 @@ Creamos también los archivos y el repositorio con los que generar el conflicto.
 
 ### Crear directorio e inicializar Git. 
 
-![i1](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i1.png)
+![i1](Pictures\i1.png)
 
-![i2](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i2.png)
+![i2](.\Pictures\i2.png)
 
 ### Crear archivo .py "original" en el directorio. 
 
