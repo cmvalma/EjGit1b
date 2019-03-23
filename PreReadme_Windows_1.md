@@ -4,7 +4,7 @@ Creamos también los archivos y el repositorio con los que generar el conflicto.
 
 ### Crear directorio e inicializar Git. 
 
-![i1](<img src="/Pictures/IMG1.png"/>)
+![i1](Pictures/i1.png)
 
 ![i2](Pictures/i2.png)
 
@@ -18,35 +18,35 @@ El código incluye la palabra original para diferenciarlo - cambiaremos esa pala
 
 no consigue borrar el archivo .git oculto. Así que lo corto y pego en la carpeta master local. Como aún no he añadido (add nada), pienso que puede funcionar.   
 
-![i3](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i3.png)
+![i3](Pictures/i3.png)
 
 Por Bash:
 
-![i4](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i4.png)
+![i4](Pictures/i4.png)
 
 ### Crear repositorio en GitHub 
 Es más fácil que crearlo localmente desde el Bash. Una vez creado muestra el link y más información de ayuda. No es necesario que tengan el mismo nombre la carpeta local y el repositorio en GitHub:
 
-![i5](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i5.png)
+![i5](Pictures/i5.png)
 
 # RESOLUCIÓN DE CONFLICTO EN GIT -2 
 ## CONTROL DE VERSIONES
 ### Link carpeta local - GitHub
 `git remote add origin https://github.com/thinktwise/tempProy1.git`
 
-![i6](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i6.png)
+![i6](Pictures/i6.png)
 
 **### Escenificar**
 
 Añadir los cambios a escena. El punto tras add (o ./), añade todos los arhivos:
 
- ![i7](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i7.png)
+ ![i7](Pictures/i7.png)
 
 
 
 **### Commit the new files
 
-![i8](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i8.png)
+![i8](Pictures/i8.png)
 
 Si no pongo la -m, abre un documento para hacer comentarios en vsCode. Git espera a que se cierre vsCode (todo el editor vsCode, no sólo los archivos) para continuar. 
 
@@ -56,17 +56,17 @@ Si no pongo la -m, abre un documento para hacer comentarios en vsCode. Git esper
 
 Pide **logear** en ventana pop:
 
-![i9](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i9.png)
+![i9](Pictures/i9.png)
 
 
 
 Si no entra a la primera, por alguna razón la vuelve a pedir con otro formato así:
 
-![i10](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i10.png)
+![i10](Pictures/i10.png)
 
 Al reconocer los datos, termina de crear la rama master:
 
-![i11](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i11.png)
+![i11](Pictures/i11.png)
 
 
 
@@ -76,27 +76,27 @@ Al reconocer los datos, termina de crear la rama master:
 
 con -b la crea nueva, además de cambiar el "foco" (i.e. situarse) en ella. 
 
-![i12](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i12.png)
+![i12](Pictures/i12.png)
 
 **### Alterar la línea de código**
 
 En vez de original, ahora pone modified.
 
-![i13](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i13.png)
+![i13](Pictures/i13.png)
 
 **### commit el archivo modificado**
 
-![i14](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i14.png)
+![i14](Pictures/i14.png)
 
 **### Push la nueva rama**
 
-![i15](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i15.png)
+![i15](Pictures/i15.png)
 
 
 
 ### Volver a master y unirla (merge) con la conflictiva
 
-![i16](B:\UX430U\Desktop\2_CODE+DS\1_DATA_SCIENCE\madrid-oct-2018\Git conflict -modifications\i16.png)
+![i16](Pictures/i16.png)
 
 **### Y... tacháaan: No encuentra conflicto!** 
 
