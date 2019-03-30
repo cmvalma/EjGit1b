@@ -1,6 +1,6 @@
 # CONFLICT IN GIT
 
-*Note: Read "Pre-Readme" for previous iteration of the process in Windows; it is much more detailed and provides context for this Readme.
+*Note: Read __"Pre-Readme_Windows"__ for previous iteration of the process in Windows; it is much more detailed and provides context for this Readme.
 
 Contrary to previous iterations of the process in Windows, in Ubuntu, deleting .git folders works as expected.
 
